@@ -1,0 +1,17 @@
+Bank Statement
+Customer Name: Test User
+Customer Date of Birth: 04/27/2021
+Customer ID Number: 108
+Customer Address: 123 Road Dr
+Customer Phone Number: (915) 123-4567
+Customer starting balance for checking: 0.0
+Customer starting balance for savings: 0.0
+Customer starting balance for credit: 0.0
+Customer end balance for checking: 1250.0
+Customer end balance for savings: 500.0
+Customer end balance for credit: 0.0
+List of transactions
+Test User made a balance inquiry on checking-1107. TestUser's balance for checking-1107: $1000.0
+Test User deposited $500.0 into checking- 1107. TestUser's balance for checking-1107: $1500.0
+Test User withdrew $250.0 from checking- 1107. TestUser's balance for checking-1107: $1250.0
+Date and time of generated statement: 2021/04/27 17:41:51

@@ -1,0 +1,15 @@
+Bank Statement
+Customer Name: Andrew Rodriguez
+Customer Date of Birth: 6-Nov-52
+Customer ID Number: 73
+Customer Address: 500 W. University Ave El Paso TX 79968
+Customer Phone Number: (915) 747-5036
+Customer starting balance for checking: 1808.89
+Customer starting balance for savings: 2626.11
+Customer starting balance for credit: -1946.16
+Customer end balance for checking: 1008.8900000000001
+Customer end balance for savings: 2626.11
+Customer end balance for credit: -1946.16
+List of transactions
+Andrew Rodriguez withdrew $800.0 from checking- 1072. AndrewRodriguez's balance for checking-1072: $1008.8900000000001
+Date and time of generated statement: 2021/04/27 19:46:48

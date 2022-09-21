@@ -1,0 +1,16 @@
+Bank Statement
+Customer Name: Buzz Lightyear
+Customer Date of Birth: 24-Jul-16
+Customer ID Number: 17
+Customer Address: 1313 Disneyland Dr Anaheim CA 92802
+Customer Phone Number: (714) 781-4636
+Customer starting balance for checking: 485.59
+Customer starting balance for savings: 4479.46
+Customer starting balance for credit: -1092.58
+Customer end balance for checking: 661.25
+Customer end balance for savings: 4479.46
+Customer end balance for credit: -1092.58
+List of transactions
+Buzz Lightyear made a balance inquiry on checking-1016. BuzzLightyear's balance for checking-1016: $985.5899999999999
+Buzz Lightyear withdrew $324.34 from checking- 1016. BuzzLightyear's balance for checking-1016: $661.25
+Date and time of generated statement: 2021/04/27 17:42:13

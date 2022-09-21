@@ -1,0 +1,16 @@
+Bank Statement for:Pauline Huerta
+Customer Name:Pauline Huerta
+Customer Date of Birth:08/06/2000
+Customer ID Number000-00-108
+Customer Address:1834 Joe Battle
+Customer Phone Number:(915) 111-1234
+Customer starting balance for checking:1631.3
+Customer starting balance for savings:6023.3
+Customer starting balance for credit:0.0
+1631.3
+Customer end balance for checking:400.3
+6023.3
+Customer end balance for savings:234.3
+0.0
+Customer end balance for credit:0.0
+2021/03/14 10:15:15

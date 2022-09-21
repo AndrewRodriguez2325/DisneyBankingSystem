@@ -1,0 +1,16 @@
+Bank Statement for: Andrew Rodriguez
+Customer Name: Andrew Rodriguez
+Customer Date of Birth:28-Aug-28
+Customer ID Number73
+Customer Address:500 W. University Ave El Paso TX 79968
+Customer Phone Number:(915) 747-5036
+Customer starting balance for checking:1885.03
+Customer starting balance for savings:1693.87
+Customer starting balance for credit:-764.95
+1885.03
+Customer end balance for checking:3240.31
+1693.87
+Customer end balance for savings:100.1
+-764.95
+Customer end balance for credit:-502.31
+2021/03/14 10:11:51

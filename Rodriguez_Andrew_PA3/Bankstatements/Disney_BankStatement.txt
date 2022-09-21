@@ -1,0 +1,16 @@
+Bank Statement for:Buzz Lightyear
+Customer Name:Buzz Lightyear
+Customer Date of Birth:30-Apr-30
+Customer ID Number17
+Customer Address:1313 Disneyland Dr Anaheim CA 92802
+Customer Phone Number:(714) 781-4636
+Customer starting balance for checking:1001.5
+Customer starting balance for savings:800.5
+Customer starting balance for credit:-1264.6
+1001.5
+Customer end balance for checking:320.12
+800.5
+Customer end balance for savings:104.64
+-1264.6
+Customer end balance for credit:-402.6
+2021/03/14 10:18:57

@@ -1,0 +1,17 @@
+Bank Statement
+Customer Name: Mickey Mouse
+Customer Date of Birth: 15-May-35
+Customer ID Number: 1
+Customer Address: 1313 Disneyland Dr Anaheim CA 92802
+Customer Phone Number: (714) 781-4636
+Customer starting balance for checking: 2160.12
+Customer starting balance for savings: 4788.55
+Customer starting balance for credit: -127.93
+Customer end balance for checking: 2160.12
+Customer end balance for savings: 17085.55
+Customer end balance for credit: -127.93
+List of transactions
+Mickey Mouse made a balance inquiry on savings- 2000. MickeyMouse's balance for savings-2000: $4788.55
+Mickey Mouse deposited $13240.0 into savings- 2000. MickeyMouse's balance for savings-2000: $18028.55
+Mickey Mouse withdrew $943.0 from savings- 2000. MickeyMouse's balance for savings-2000: $17085.55
+Date and time of generated statement: 2021/04/27 17:42:19
